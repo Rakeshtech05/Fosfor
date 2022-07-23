@@ -1,3 +1,7 @@
+Run the below commands in gencsv.sh
+
+
+
 #!/bin/bash
 
 
