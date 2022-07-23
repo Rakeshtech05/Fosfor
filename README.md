@@ -1,4 +1,4 @@
-Run the below commands in gencsv.sh
+Copy and paste below commands in gencsv.sh
 
 
 
